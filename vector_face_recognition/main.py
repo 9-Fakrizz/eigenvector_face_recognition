@@ -1,5 +1,5 @@
 """
-face_app.py  ─  Unified Face Registration & Recognition GUI
+Unified Face Registration & Recognition GUI
 ═══════════════════════════════════════════════════════════════
 Single-window app combining register.py + recognize.py with:
   • Live webcam feed embedded in the GUI
